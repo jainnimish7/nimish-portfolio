@@ -560,6 +560,7 @@ section {
 }
 .contact-content-con .left-contact .contact-icon {
   display: flex;
+  justify-content: center;
   margin-top: 2rem;
 }
 .contact-content-con .left-contact .contact-icon a {
@@ -622,6 +623,7 @@ section {
 .btn-con {
   display: flex;
   align-self: flex-start;
+  justify-content: center;
 }
 
 .main-btn {
